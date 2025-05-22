@@ -1,0 +1,7 @@
+module-info.class
+repository\ClienteRepository.class
+com\example\demo\HelloApplication.class
+com\example\demo\HelloController.class
+model\Cliente.class
+java.class
+view\ClienteView.class
